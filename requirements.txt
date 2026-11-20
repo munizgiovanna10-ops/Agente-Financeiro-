@@ -1,0 +1,1 @@
+# Sem dependências externas. Este arquivo só ajuda hospedagens (Railway, Render) a reconhecer o projeto como Python.
